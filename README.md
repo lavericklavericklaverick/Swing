@@ -4,17 +4,6 @@ A self-contained browser model for exploring the coupled vertical motion of a hi
 
 > **Safety warning:** This is an exploratory educational model, not an engineering design or rigging tool. Do not use its results to determine safe loads, clearances, anchor capacities, equipment suitability, or operating procedures.
 
-## Run it
-
-No installation, build step, server, or external library is required.
-
-1. Open `Highline Rope-Swing Exploratory Simulator.html` in a current desktop browser.
-2. Enter the highline, swing-rope, jumper, and simulation values.
-3. Select the starting side.
-4. Choose **Run / animate**.
-
-Use **Add current case** to save a setup, then **Compare saved** to overlay selected cases. The **Cases JSON** tab exports or imports case parameters. Saved cases exist only in memory unless exported.
-
 ## Inputs
 
 All values use SI units:
