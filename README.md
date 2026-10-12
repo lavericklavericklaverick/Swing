@@ -15,6 +15,7 @@ All values use SI units:
 
 The timestep affects the numerical solution. Animation speed affects playback only. Repeat important runs with a smaller timestep and compare results.
 
+
 ## Outputs
 
 - Animated side elevation of the highline, swing rope, and jumper path.
