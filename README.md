@@ -2,6 +2,7 @@
 
 A self-contained browser model for exploring the coupled vertical motion of a highline attachment and a jumper on a dynamic swing rope.
 
+
 > **Safety warning:** This is an exploratory educational model, not an engineering design or rigging tool. Do not use its results to determine safe loads, clearances, anchor capacities, equipment suitability, or operating procedures.
 
 ## Inputs
@@ -14,7 +15,6 @@ All values use SI units:
 - **Simulation:** assumed damping ratio, duration, timestep, and animation speed.
 
 The timestep affects the numerical solution. Animation speed affects playback only. Repeat important runs with a smaller timestep and compare results.
-
 
 ## Outputs
 
